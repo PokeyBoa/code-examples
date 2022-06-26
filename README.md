@@ -1,4 +1,4 @@
-# Code-example
+# Lightweight Code Mate
 
 **愿景：** 高效且快速的编程，积累更多开箱即用的标准脚本合集。
 
@@ -19,3 +19,4 @@
 | --- | --- |
 | [`cmdline_params_parsing`](https://github.com/PokeyBoa/code-example/tree/master/shell/cmdline_params_parsing) | Bash 命令行参数解析工具 |
 | [`global_variable_settings`](https://github.com/PokeyBoa/code-example/tree/master/shell/global_variable_settings) | Bash 全局变量定义模版 |
+
