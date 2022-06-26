@@ -5,7 +5,8 @@
 ## Python
 | 跳转 | 说明 |
 | --- | --- |
-| [`blueprint-layout`](https://github.com/PokeyBoa/code-example/tree/master/python/flask/blueprintLayout) | Flask 小蓝图布局示例，适用于中小型 Web 项目 |
+| [`params_init_class`](https://github.com/PokeyBoa/code-examples/tree/master/python/class/params_init_class) | Class 实例化对象动态解构并赋值 |
+| [`blueprint_layout`](https://github.com/PokeyBoa/code-example/tree/master/python/flask/blueprintLayout) | Flask 小蓝图布局示例，适用于中小型 Web 项目 |
 | [`requests`](https://github.com/PokeyBoa/code-example/tree/master/python/requests) | requests 模块 Restful HTTP 请求示例代码 |
 
 
