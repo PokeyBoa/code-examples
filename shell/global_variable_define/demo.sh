@@ -1,5 +1,7 @@
 #!/usr/bin/env bash
-#written on xx/xx
+#written on 2022.06.26
+#author: PokeyBoa.mystic
+#Description: Global variable definition demo example.
 
 set -o nounset
 export LANG=en_US.UTF-8
@@ -11,9 +13,12 @@ curdir=`dirname $(readlink -f $0)`
 basedir=`dirname $curdir`"/"
 
 
-echo -e "${symbols}\n"
-echo "当前脚本路径: ${curdir}"
-echo "父级目录: ${basedir}"
-
+# unit test
+unit_test() {
+    echo -e "\n${symbols}"
+    echo "current script path: ${curdir}"
+    echo "parent path: ${basedir}"
+}
+unit_test
 
 # EOF
