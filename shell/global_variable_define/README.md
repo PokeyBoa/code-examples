@@ -1,6 +1,7 @@
 # 全局变量定义模板
 
 列出 bash 脚本中 global variable 常见的全局定义
+
 | 命令 | 说明 |
 | --- | --- |
 | `set -u` 或 `set -o nounset` | 引用了未定义的变量会报错 |

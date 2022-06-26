@@ -1,11 +1,13 @@
 # 用户 TUI 交互界面
 
-重点介绍 Shell Script 中 `read` 与 `while true loops + case statements` 的结合使用，能够构建用户交互场景的 TUI 菜单选项卡
+重点介绍 Shell Script 中 `read` 与 `while true loops + case statements` 的结合使用，能够构建用户交互场景的 TUI 菜单选项卡。
 
 
 ## 运行结果
 
 ```shell
+[admin@localhost ~]$ chmod u+x ./demo.sh
+
 [admin@localhost ~]$ sh demo.sh
 ##################################################
 Please enter ipaddr: 192.168.0.100
@@ -22,3 +24,4 @@ Result:
   netmask: 255.255.255.0
   gateway: 192.168.0.1
 ```
+
