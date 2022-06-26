@@ -1,5 +1,5 @@
 # -*- coding: UTF-8 -*-
-from flask import Flask
+from flask import Flask, render_template
 from .views.bp1 import bp1
 from .views.bp2 import bp2
 
@@ -9,7 +9,7 @@ def create_app():
 
     @app.route('/index')
     def index():
-        return 'index'
+        return render_template('index.html')
 
     app.register_blueprint(bp1, url_prefix='/web')
     app.register_blueprint(bp2, url_prefix='/admin')

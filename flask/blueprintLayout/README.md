@@ -1,15 +1,15 @@
 Here is a simple example of a standard blueprint.
 
 ```shell
-建议这两个名字保持一致：
-工程名：micro-blueprint-layout
-项目名：micro-blueprint-layout
+建议这两个名字保持一致:
+工程名: blueprintLayout
+项目名: blueprintLayout
 
 
-[admin@localhost /micro-blueprint-layout]$ tree 
+[admin@localhost /blueprintLayout]$ tree 
 .
 |-- manage.py                                   # 主启动文件
-`-- micro-blueprint-layout
+`-- blueprintLayout
     |-- __init__.py                             # 注册蓝图
     |-- static
     |-- templates

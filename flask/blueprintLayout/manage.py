@@ -1,5 +1,5 @@
 # -*- coding: UTF-8 -*-
-from project_name import create_app
+from blueprintLayout import create_app
 
 app = create_app()
 
