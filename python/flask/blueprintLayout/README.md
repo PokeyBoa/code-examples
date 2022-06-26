@@ -1,11 +1,10 @@
-Here is a simple example of a standard blueprint.
+# 简单的 blueprint 目录结构
+
+建议工程与项目名两者保持一致:
+- 工程名: blueprintLayout
+- 项目名: blueprintLayout
 
 ```shell
-建议这两个名字保持一致:
-工程名: blueprintLayout
-项目名: blueprintLayout
-
-
 [admin@localhost /blueprintLayout]$ tree 
 .
 |-- manage.py                                   # 主启动文件
