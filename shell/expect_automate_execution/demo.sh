@@ -21,7 +21,7 @@ fi
     expect -re "sftp> " { send "pwd\n" }
     expect -re "sftp> " { send "ls -l\n" }
     expect -re "sftp> " { send "put ${0}\n" }
-    expect -re "sftp> " { exit }
+    expect -re "sftp> " { send "bye\n" }
     expect eof
 EOF
 
