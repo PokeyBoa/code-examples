@@ -1,6 +1,6 @@
-# Lightweight Code Mate
+# Lightweight Code Repository
 
-**愿景：** 高效且快速的编程，积累更多开箱即用的标准脚本合集。
+**愿景：** 高效且快速的编程，积累更多开箱即用的标准脚本 Example 合集。
 
 ## Python
 | 跳转 | 说明 |
