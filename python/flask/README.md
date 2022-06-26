@@ -1,2 +1,0 @@
-- blueprint-layout: 小蓝图布局示例
-- 适用于中小型项目
