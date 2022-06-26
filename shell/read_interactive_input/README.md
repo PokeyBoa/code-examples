@@ -2,7 +2,9 @@
 
 重点介绍 Shell Script 中 `read` 与 `while true loops + case statements` 的结合使用，能够构建用户交互场景的 TUI 菜单选项卡
 
-- 运行结果:
+
+## 运行结果
+
 ```shell
 [admin@localhost ~]$ sh demo.sh
 ##################################################
