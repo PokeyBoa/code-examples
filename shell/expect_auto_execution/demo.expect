@@ -1,9 +1,10 @@
 #!/usr/bin/expect
 
+set PORT 22
+
 set USER [lindex $argv 0]
 set HOST [lindex $argv 1]
 set PASSWD [lindex $argv 2]
-set PORT 22
 
 set timeout -1
 
