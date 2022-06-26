@@ -21,7 +21,7 @@ check_ip() {
 # Command line parameter processing
 help_info="
 Usage: sh ${0} [OPTION]...
-The iDRAC management remote initialization tool of the Dell Server.
+Validity tool for detecting IPv4.
 
 Mandatory arguments to short options.
   -i                with an ipv4 address.

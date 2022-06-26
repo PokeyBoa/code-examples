@@ -4,23 +4,23 @@
 
 - 运行结果:
 ```shell
-[admin@localhost ~]$ chmod u+x ./ip-helper.sh
+[admin@localhost ~]$ chmod u+x ./demo.sh
 
-[admin@localhost ~]$ ./ip-helper.sh 
+[admin@localhost ~]$ ./demo.sh
 
-Try './ip-helper.sh -h' for more information.
+Try './demo.sh -h' for more information.
 
-[admin@localhost ~]$ ./ip-helper.sh -h
+[admin@localhost ~]$ ./demo.sh -h
 
-Usage: sh ./ip-helper.sh [OPTION]...
-The iDRAC management remote initialization tool of the Dell Server.
+Usage: sh ./demo.sh [OPTION]...
+Validity tool for detecting IPv4.
 
 Mandatory arguments to short options.
   -i                with an ipv4 address.
   -h                display this help and exit.
 
 For example:
-  $ sh ./ip-helper.sh -i 192.168.1.100
+  $ sh ./demo.sh -i 192.168.1.100
 
-[admin@localhost ~]$ ./ip-helper.sh -i 10.0.0.1
+[admin@localhost ~]$ ./demo.sh -i 10.0.0.1
 ```

@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 
 symbols=`perl -e "print '#' x 50;"`
 

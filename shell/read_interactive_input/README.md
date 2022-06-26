@@ -4,7 +4,7 @@
 
 - 运行结果:
 ```shell
-[admin@localhost ~]$ sh lab.sh
+[admin@localhost ~]$ sh demo.sh
 ##################################################
 Please enter ipaddr: 192.168.0.100
 Please enter netmask: 255.255.255.0
