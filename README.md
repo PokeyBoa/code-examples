@@ -16,7 +16,8 @@
 ## Shell Script
 | 跳转 | 说明 |
 | --- | --- |
-| [`cmdline_params_parsing`](https://github.com/PokeyBoa/code-example/tree/master/shell/cmdline_params_parsing) | Bash 命令行参数解析工具 |
+| [`cmdline_params_parsing`](https://github.com/PokeyBoa/code-example/tree/master/shell/cmdline_params_parsing) | Bash 命令行参数解析 |
+| [`expect_auto_execution`](https://github.com/PokeyBoa/code-example/tree/master/shell/expect_auto_execution) | Bash 自动化交互输入执行 |
 | [`global_variable_define`](https://github.com/PokeyBoa/code-example/tree/master/shell/global_variable_define) | Bash 全局变量定义模版 |
 | [`read_interactive_input`](https://github.com/PokeyBoa/code-examples/tree/master/shell/read_interactive_input) | Bash 用户交互输入界面 |
 
