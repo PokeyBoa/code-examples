@@ -1,20 +1,15 @@
-# Tool template for python I/O Connection type. 
-+ You can build your code based on the following four ways, if it is related to io connection:
-  1. Functional programming
-  2. Object Oriented
-  3. Decorators (closures)
-  4. with context management
+# 应用建立连接方式
 
----
+## 概述
 
 - 代码示例：
-  以连接AD域控为例。
+  以连接 AD 域控为例。
 
 - 适用场景：
-  在c/s架构中，任何需要建立socket连接的部分，都可参考以上的思路来完成。如：连接db数据库等。
+  在任何 C/S 架构中，需要 Socket 建连功能的代码，都可参考以下思路来完成。如：连接 DB 数据库等。
 
 - 代码实现：
-  - 普通的面向过程
-  - 普通的面向对象
-  - 使用装饰器：函数式编程（闭包的应用）
-  - 使用with上下文管理：通过魔法方法
+  - Functional programming 函数式编程
+  - Object Oriented 面向对象
+  - Decorators (closures) 利用装饰器
+  - with context management 上下文管理
