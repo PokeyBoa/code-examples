@@ -4,5 +4,5 @@
   - Basic 身份认证
   - Bearer 身份认证
 - POST 请求
-  - json 内容类型
+  - raw: json 内容类型
   - x-www-form-urlencoded 内容类型
