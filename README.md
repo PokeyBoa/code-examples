@@ -7,7 +7,7 @@
 | --- | --- |
 | [`app_connect_operate`](https://github.com/PokeyBoa/code-examples/tree/master/python/scheme/app_connect_operate) | 应用程序建立连接方法示例 |
 | [`params_init_class`](https://github.com/PokeyBoa/code-examples/tree/master/python/scheme/params_init_class) | Class 实例化对象动态解构并赋值 |
-| [`blueprint_layout`](https://github.com/PokeyBoa/code-example/tree/master/python/flask/blueprintLayout) | Flask 小蓝图布局示例，适用于中小型 Web 项目 |
+| [`flask_blueprint_layout`](https://github.com/PokeyBoa/code-example/tree/master/python/flask/blueprintLayout) | Flask 小蓝图布局示例，适用于中小型 Web 项目 |
 | [`http_restful_requests`](https://github.com/PokeyBoa/code-example/tree/master/python/requests) | Requests 模块 Restful HTTP 请求示例代码 |
 
 
