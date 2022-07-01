@@ -22,4 +22,4 @@
 | [`expect_auto_execution`](https://github.com/PokeyBoa/code-example/tree/master/shell/expect_auto_execution) | Bash 自动化交互输入执行 |
 | [`global_variable_define`](https://github.com/PokeyBoa/code-example/tree/master/shell/global_variable_define) | Bash 全局变量定义模版 |
 | [`read_interactive_input`](https://github.com/PokeyBoa/code-examples/tree/master/shell/read_interactive_input) | Bash 用户交互输入界面 |
-
+| [`ensure_hosts_connectivity`](https://github.com/PokeyBoa/code-examples/tree/master/shell/checked_ansible_inventory) | Ansible Inventory 连通性校准 |
